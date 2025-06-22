@@ -12,7 +12,6 @@
 
 /* Begin PBXFileReference section */
 		1F75D4232E08A14100AEA888 /* NovaXR-VisionOS-DiplomaProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NovaXR-VisionOS-DiplomaProject.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1F75D4272E08A14100AEA888 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -20,6 +19,7 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
+				Packages/RealityKitContent,
 			);
 			target = 1F75D4222E08A14100AEA888 /* NovaXR-VisionOS-DiplomaProject */;
 		};
@@ -52,7 +52,6 @@
 			isa = PBXGroup;
 			children = (
 				1F75D4252E08A14100AEA888 /* NovaXR-VisionOS-DiplomaProject */,
-				1F75D4262E08A14100AEA888 /* Packages */,
 				1F75D4242E08A14100AEA888 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,14 +62,6 @@
 				1F75D4232E08A14100AEA888 /* NovaXR-VisionOS-DiplomaProject.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		1F75D4262E08A14100AEA888 /* Packages */ = {
-			isa = PBXGroup;
-			children = (
-				1F75D4272E08A14100AEA888 /* RealityKitContent */,
-			);
-			path = Packages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -179,6 +170,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 7;
+				XROS_DEPLOYMENT_TARGET = 2.3;
 			};
 			name = Debug;
 		};
@@ -207,6 +199,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 7;
+				XROS_DEPLOYMENT_TARGET = 2.3;
 			};
 			name = Release;
 		};
@@ -270,7 +263,7 @@
 				SDKROOT = xros;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				XROS_DEPLOYMENT_TARGET = 26.0;
+				XROS_DEPLOYMENT_TARGET = 2.4;
 			};
 			name = Debug;
 		};
@@ -327,7 +320,7 @@
 				SDKROOT = xros;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
-				XROS_DEPLOYMENT_TARGET = 26.0;
+				XROS_DEPLOYMENT_TARGET = 2.4;
 			};
 			name = Release;
 		};

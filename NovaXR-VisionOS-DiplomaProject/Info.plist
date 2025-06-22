@@ -5,19 +5,11 @@
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationPreferredDefaultSceneSessionRole</key>
-		<string>UIWindowSceneSessionRoleVolumetricApplication</string>
+		<string>UIWindowSceneSessionRoleApplication</string>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<true/>
 		<key>UISceneConfigurations</key>
-		<dict>
-			<key>UISceneSessionRoleImmersiveSpaceApplication</key>
-			<array>
-				<dict>
-					<key>UISceneInitialImmersionStyle</key>
-					<string>UIImmersionStyleFull</string>
-				</dict>
-			</array>
-		</dict>
+		<dict/>
 	</dict>
 </dict>
 </plist>
