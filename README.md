@@ -11,11 +11,11 @@
 ## 📸 Sneak Peek FullSpace Reality
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dwc2JybWpka3c3azR2cTNrajdmcW0zNW83MHF1dzY2ejlqMmZsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GshzLehoOVSRg0nLb/giphy.gif" width="600"/>
 
-## 📸 Foretaste Progressive Reality
+## 🎬 Foretaste Progressive Reality
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dwc2JybWpka3c3azR2cTNrajdmcW0zNW83MHF1dzY2ejlqMmZsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GshzLehoOVSRg0nLb/giphy.gif" width="600"/>
 
-## 📸 Multi-Pulti Window
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dwc2JybWpka3c3azR2cTNrajdmcW0zNW83MHF1dzY2ejlqMmZsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GshzLehoOVSRg0nLb/giphy.gif" width="600"/>
+## 👾 Multi-Pulti Window
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWYzNjhwM25qeWNwNjYyZHQwdnRqd3Ntb3EzZ2RvcG54MjFpcWk4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Py378MI96UrijIhziU/giphy.gif" width="600"/>
 
 ## 🎓 About This Project
 
